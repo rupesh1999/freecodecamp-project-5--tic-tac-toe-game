@@ -1,0 +1,27 @@
+body {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #383838, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #333232, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.game {
+    margin-top: 80px;
+}
+.col-lg-12 {
+    margin-top: 5px;
+}
+.heading {
+    color: white;
+    font-family: Courier New, Courier, monospace;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.tic {
+    margin: 10px 10px;
+    text-align: center;
+    height: 70px;
+    width: 70px;
+    border-radius: 40px;
+}
